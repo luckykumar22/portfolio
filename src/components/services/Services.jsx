@@ -12,7 +12,7 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Fullstack Developer</h3>
+            <h3>MERN Stack Development</h3>
           </div>
           <ul className="service__list">
           <li>
@@ -44,7 +44,7 @@ const Services = () => {
         {/* END OF SERVICE 1 */}
         <article className="service">
           <div className="service__head">
-            <h3>Frontend Developer</h3>
+            <h3>Frontend Development</h3>
           </div>
           <ul className="service__list">
           <li>
@@ -76,7 +76,7 @@ const Services = () => {
       {/* END OF SERVICE2 */}
         <article className="service">
           <div className="service__head">
-            <h3>Backend Developer</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className="service__list">
           <li>
