@@ -5,8 +5,10 @@ import "./experience.css";
 const Experience = () => {
   return (
     <section id="experience">
-      <h5>Skills I Have</h5>
-      <h2>My Experience</h2>
+      <br />
+        <h5>Skills I Have</h5>
+        <h2>My Experience</h2>
+      
 
       <div className="container experience_container">
         <div className="experience__frontend">
@@ -76,14 +78,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons"/>
               <div>
-                <h4>REACT</h4>
+                <h4>EXPRESS</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons"/>
               <div>
-                <h4>BOOTSTRAP</h4>
+                <h4>POSTMAN</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
