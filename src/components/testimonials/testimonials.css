@@ -38,9 +38,9 @@
 
 @media screen and (max-width: 600px) {
     .container.testimonials__container {
-        width: var(--conainer-width-sm);
+        width: var(--container-width-sm);
     }
     .client__review{
-        width: var(--conainer-width-sm);
+        width: var(--container-width-sm);
     }
 }
