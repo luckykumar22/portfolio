@@ -17,27 +17,7 @@ const Services = () => {
           <ul className="service__list">
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
+              <p>A Full-stack MERN developer with over 1+ years of experience building full-stack web applications. I have a passion for creating high-quality, efficient and scalable web applications.</p>
             </li>
           </ul>
         </article>
@@ -49,27 +29,7 @@ const Services = () => {
           <ul className="service__list">
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
+              <p>A Frontend developer with a passion to create high-quality, user-friendly, interactive and intuitive web applications. Skilled in HTML, CSS, JavaScript, jQuery, AJAX, React, Redux, Bootstrap.</p>
             </li>
           </ul>
         </article>
@@ -81,27 +41,7 @@ const Services = () => {
           <ul className="service__list">
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum</p>
+              <p>A Node.js backend developer with extensive knowledge in developing and maintaining web applications, REST APIs, databases, server management, Express, MongoDB, and AWS.</p>
             </li>
           </ul>
         </article>

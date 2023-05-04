@@ -22,7 +22,7 @@ const About = () => {
               <article className="about__card">
                 <FaAward className="about__icon" />
                 <h5>Experience</h5>
-                <small>8+ Months</small>
+                <small>1+ Years</small>
               </article>
               {/* <article className="about__card">
                 <FiUsers className="about__icon" />
@@ -35,7 +35,7 @@ const About = () => {
                 <small>5+ Projects</small>
               </article>
             </div>
-            <p>Experienced Full-Stack Developer with 8+ months of industry experience. Proficient in React js, Node.js, HTML, CSS, and JavaScript development. Skilled in both front-end and back-end development, with a proven ability to work effectively in a fast-paced, collaborative environment. Passionate about staying up-to-date with the latest web technologies and best practices. Committed to delivering high-quality, intuitive web experiences for users, from server-side architecture to client-side interfaces. Capable of working on the full software development lifecycle, from ideation and planning to deployment and maintenance.</p>
+            <p>Experienced Full-Stack Developer with 1+ years of industry experience. Proficient in React js, Node.js, HTML, CSS, and JavaScript development. Skilled in both front-end and back-end development, with a proven ability to work effectively in a fast-paced, collaborative environment. Passionate about staying up-to-date with the latest web technologies and best practices. Committed to delivering high-quality, intuitive web experiences for users, from server-side architecture to client-side interfaces. Capable of working on the full software development lifecycle, from ideation and planning to deployment and maintenance.</p>
 
             <a href="#contact">Let's Talk</a>
           </div>
