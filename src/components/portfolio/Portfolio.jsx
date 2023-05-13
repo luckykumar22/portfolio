@@ -2,6 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/Weather App.png";
 import IMG2 from "../../assets/Movie Guide.png";
+import IMG3 from "../../assets/Youtube Clone.png";
 
 const data = [
   {
@@ -20,13 +21,14 @@ const data = [
     github: "https://github.com/luckykumar22/Movie-Guide-App",
     demo: "https://movieflicksguide.netlify.app/",
   },
-  // {
-  //   id: 3,
-  //   image: IMG3,
-  //   title: "",
-  //   github: "",
-  //   demo: "",
-  // },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Youtube Clone App",
+    subtitle:"Developed a stunning YouTube clone app using React js and the newest version of Material UI.",
+    github: "https://github.com/luckykumar22/Youtube-Clone",
+    demo: "https://youtube-clone-by-lucky.netlify.app/",
+  },
   // {
   //   id: 4,
   //   image: IMG3,

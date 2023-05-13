@@ -1,8 +1,8 @@
 import React from "react";
 import "./about.css";
-import MeAbout from "../../assets/me-bg.png";
+import MeAbout from "../../assets/bannerImg.png";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
+// import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 const About = () => {

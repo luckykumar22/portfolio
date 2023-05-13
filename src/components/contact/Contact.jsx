@@ -13,10 +13,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_3iizrg2",
-        "template_ppty3z9",
+        "service_3iizrg2",     //service key
+        "template_ppty3z9",    //template key
         form.current,
-        "5d23cTu0_CIiV764P"
+        "5d23cTu0_CIiV764P"    //public key
       )
       e.target.reset();
   };
