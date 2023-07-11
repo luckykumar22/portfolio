@@ -1,33 +1,42 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/Weather App.png";
-import IMG2 from "../../assets/Movie Guide.png";
-import IMG3 from "../../assets/Youtube Clone.png";
+import IMG1 from "../../assets/Youtube Clone.png";
+import IMG2 from "../../assets/Blog App.png";
+import IMG3 from "../../assets/Weather App.png";
+import IMG4 from "../../assets/Movie Guide.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
+    title: "Youtube Clone App",
+    subtitle:"Developed a stunning YouTube clone app using React js and the newest version of Material UI.",
+    github: "https://github.com/luckykumar22/Youtube-Clone",
+    demo: "https://youtube-clone-by-lucky.netlify.app/",
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: "MERN Blog App",
+    subtitle:"Full-stack blog app using the MERN stack (MongoDB, React JS, Node JS).",
+    github: "https://github.com/luckykumar22/MERN-BLOG-APP",
+    demo: "https://luckywritesblog.netlify.app/",
+  },
+  {
+    id: 3,
+    image: IMG3,
     title: "Weather App",
     subtitle:"Responsive Weather App using React and CSS. Fetching weather updates using openweatherAPI",
     github: "https://github.com/luckykumar22/weather-app",
     demo: "https://luckyweather.netlify.app/",
   },
   {
-    id: 2,
-    image: IMG2,
+    id: 4,
+    image: IMG4,
     title: "Movie Guide App",
     subtitle:"Responsive Movie Guide App using JavaScript and CSS. Fetching Movie Details using omdbAPI",
     github: "https://github.com/luckykumar22/Movie-Guide-App",
     demo: "https://movieflicksguide.netlify.app/",
-  },
-  {
-    id: 3,
-    image: IMG3,
-    title: "Youtube Clone App",
-    subtitle:"Developed a stunning YouTube clone app using React js and the newest version of Material UI.",
-    github: "https://github.com/luckykumar22/Youtube-Clone",
-    demo: "https://youtube-clone-by-lucky.netlify.app/",
   },
   // {
   //   id: 4,
